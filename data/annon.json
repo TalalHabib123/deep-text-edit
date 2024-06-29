@@ -1,0 +1,2821 @@
+{
+    "index_id": {
+        "1image": {
+            "image_path": "Outputs/1image.jpg"
+        },
+        "2image": {
+            "image_path": "Outputs/2image.jpg"
+        },
+        "Screenshot 2024-06-27 160209": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160209.jpg"
+        },
+        "Screenshot 2024-06-27 160234": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160234.jpg"
+        },
+        "Screenshot 2024-06-27 160243": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160243.jpg"
+        },
+        "Screenshot 2024-06-27 160252": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160252.jpg"
+        },
+        "Screenshot 2024-06-27 160327": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160327.jpg"
+        },
+        "Screenshot 2024-06-27 160347": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160347.jpg"
+        },
+        "Screenshot 2024-06-27 160425": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160425.jpg"
+        },
+        "Screenshot 2024-06-27 160435": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160435.jpg"
+        },
+        "Screenshot 2024-06-27 160442": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160442.jpg"
+        },
+        "Screenshot 2024-06-27 160452": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160452.jpg"
+        },
+        "Screenshot 2024-06-27 160459": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160459.jpg"
+        },
+        "Screenshot 2024-06-27 160506": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160506.jpg"
+        },
+        "Screenshot 2024-06-27 160516": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160516.jpg"
+        },
+        "Screenshot 2024-06-27 160529": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160529.jpg"
+        },
+        "Screenshot 2024-06-27 160541": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160541.jpg"
+        },
+        "Screenshot 2024-06-27 160554": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160554.jpg"
+        },
+        "Screenshot 2024-06-27 160614": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160614.jpg"
+        },
+        "Screenshot 2024-06-27 160633": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160633.jpg"
+        },
+        "Screenshot 2024-06-27 160644": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160644.jpg"
+        },
+        "Screenshot 2024-06-27 160654": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160654.jpg"
+        },
+        "Screenshot 2024-06-27 160707": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160707.jpg"
+        },
+        "Screenshot 2024-06-27 160716": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160716.jpg"
+        },
+        "Screenshot 2024-06-27 160730": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160730.jpg"
+        },
+        "Screenshot 2024-06-27 160737": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160737.jpg"
+        },
+        "Screenshot 2024-06-27 160749": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160749.jpg"
+        },
+        "Screenshot 2024-06-27 160759": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160759.jpg"
+        },
+        "Screenshot 2024-06-27 160806": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160806.jpg"
+        },
+        "Screenshot 2024-06-27 160813": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160813.jpg"
+        },
+        "Screenshot 2024-06-27 160822": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160822.jpg"
+        },
+        "Screenshot 2024-06-27 160831": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160831.jpg"
+        },
+        "Screenshot 2024-06-27 160843": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160843.jpg"
+        },
+        "Screenshot 2024-06-27 160850": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160850.jpg"
+        },
+        "Screenshot 2024-06-27 160918": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160918.jpg"
+        },
+        "Screenshot 2024-06-27 160928": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160928.jpg"
+        },
+        "Screenshot 2024-06-27 160950": {
+            "image_path": "Outputs/Screenshot 2024-06-27 160950.jpg"
+        },
+        "Screenshot 2024-06-27 161000": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161000.jpg"
+        },
+        "Screenshot 2024-06-27 161021": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161021.jpg"
+        },
+        "Screenshot 2024-06-27 161031": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161031.jpg"
+        },
+        "Screenshot 2024-06-27 161054": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161054.jpg"
+        },
+        "Screenshot 2024-06-27 161107": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161107.jpg"
+        },
+        "Screenshot 2024-06-27 161116": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161116.jpg"
+        },
+        "Screenshot 2024-06-27 161125": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161125.jpg"
+        },
+        "Screenshot 2024-06-27 161242": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161242.jpg"
+        },
+        "Screenshot 2024-06-27 161255": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161255.jpg"
+        },
+        "Screenshot 2024-06-27 161302": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161302.jpg"
+        },
+        "Screenshot 2024-06-27 161312": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161312.jpg"
+        },
+        "Screenshot 2024-06-27 161327": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161327.jpg"
+        },
+        "Screenshot 2024-06-27 161336": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161336.jpg"
+        },
+        "Screenshot 2024-06-27 161346": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161346.jpg"
+        },
+        "Screenshot 2024-06-27 161401": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161401.jpg"
+        },
+        "Screenshot 2024-06-27 161425": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161425.jpg"
+        },
+        "Screenshot 2024-06-27 161434": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161434.jpg"
+        },
+        "Screenshot 2024-06-27 161444": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161444.jpg"
+        },
+        "Screenshot 2024-06-27 161532": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161532.jpg"
+        },
+        "Screenshot 2024-06-27 161543": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161543.jpg"
+        },
+        "Screenshot 2024-06-27 161609": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161609.jpg"
+        },
+        "Screenshot 2024-06-27 161616": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161616.jpg"
+        },
+        "Screenshot 2024-06-27 161624": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161624.jpg"
+        },
+        "Screenshot 2024-06-27 161639": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161639.jpg"
+        },
+        "Screenshot 2024-06-27 161647": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161647.jpg"
+        },
+        "Screenshot 2024-06-27 161657": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161657.jpg"
+        },
+        "Screenshot 2024-06-27 161706": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161706.jpg"
+        },
+        "Screenshot 2024-06-27 161717": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161717.jpg"
+        },
+        "Screenshot 2024-06-27 161726": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161726.jpg"
+        },
+        "Screenshot 2024-06-27 161738": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161738.jpg"
+        },
+        "Screenshot 2024-06-27 161746": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161746.jpg"
+        },
+        "Screenshot 2024-06-27 161753": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161753.jpg"
+        },
+        "Screenshot 2024-06-27 161804": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161804.jpg"
+        },
+        "Screenshot 2024-06-27 161814": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161814.jpg"
+        },
+        "Screenshot 2024-06-27 161822": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161822.jpg"
+        },
+        "Screenshot 2024-06-27 161830": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161830.jpg"
+        },
+        "Screenshot 2024-06-27 161837": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161837.jpg"
+        },
+        "Screenshot 2024-06-27 161844": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161844.jpg"
+        },
+        "Screenshot 2024-06-27 161856": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161856.jpg"
+        },
+        "Screenshot 2024-06-27 161904": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161904.jpg"
+        },
+        "Screenshot 2024-06-27 161912": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161912.jpg"
+        },
+        "Screenshot 2024-06-27 161931": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161931.jpg"
+        },
+        "Screenshot 2024-06-27 161938": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161938.jpg"
+        },
+        "Screenshot 2024-06-27 161946": {
+            "image_path": "Outputs/Screenshot 2024-06-27 161946.jpg"
+        },
+        "Screenshot 2024-06-27 162005": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162005.jpg"
+        },
+        "Screenshot 2024-06-27 162029": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162029.jpg"
+        },
+        "Screenshot 2024-06-27 162049": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162049.jpg"
+        },
+        "Screenshot 2024-06-27 162057": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162057.jpg"
+        },
+        "Screenshot 2024-06-27 162108": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162108.jpg"
+        },
+        "Screenshot 2024-06-27 162119": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162119.jpg"
+        },
+        "Screenshot 2024-06-27 162126": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162126.jpg"
+        },
+        "Screenshot 2024-06-27 162136": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162136.jpg"
+        },
+        "Screenshot 2024-06-27 162144": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162144.jpg"
+        },
+        "Screenshot 2024-06-27 162151": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162151.jpg"
+        },
+        "Screenshot 2024-06-27 162159": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162159.jpg"
+        },
+        "Screenshot 2024-06-27 162219": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162219.jpg"
+        },
+        "Screenshot 2024-06-27 162227": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162227.jpg"
+        },
+        "Screenshot 2024-06-27 162325": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162325.jpg"
+        },
+        "Screenshot 2024-06-27 162336": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162336.jpg"
+        },
+        "Screenshot 2024-06-27 162355": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162355.jpg"
+        },
+        "Screenshot 2024-06-27 162405": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162405.jpg"
+        },
+        "Screenshot 2024-06-27 162423": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162423.jpg"
+        },
+        "Screenshot 2024-06-27 162433": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162433.jpg"
+        },
+        "Screenshot 2024-06-27 162447": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162447.jpg"
+        },
+        "Screenshot 2024-06-27 162530": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162530.jpg"
+        },
+        "Screenshot 2024-06-27 162538": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162538.jpg"
+        },
+        "Screenshot 2024-06-27 162546": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162546.jpg"
+        },
+        "Screenshot 2024-06-27 162553": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162553.jpg"
+        },
+        "Screenshot 2024-06-27 162609": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162609.jpg"
+        },
+        "Screenshot 2024-06-27 162618": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162618.jpg"
+        },
+        "Screenshot 2024-06-27 162635": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162635.jpg"
+        },
+        "Screenshot 2024-06-27 162657": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162657.jpg"
+        },
+        "Screenshot 2024-06-27 162733": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162733.jpg"
+        },
+        "Screenshot 2024-06-27 162758": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162758.jpg"
+        },
+        "Screenshot 2024-06-27 162809": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162809.jpg"
+        },
+        "Screenshot 2024-06-27 162820": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162820.jpg"
+        },
+        "Screenshot 2024-06-27 162842": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162842.jpg"
+        },
+        "Screenshot 2024-06-27 162859": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162859.jpg"
+        },
+        "Screenshot 2024-06-27 162910": {
+            "image_path": "Outputs/Screenshot 2024-06-27 162910.jpg"
+        },
+        "Screenshot 2024-06-27 163014": {
+            "image_path": "Outputs/Screenshot 2024-06-27 163014.jpg"
+        },
+        "Screenshot 2024-06-27 163026": {
+            "image_path": "Outputs/Screenshot 2024-06-27 163026.jpg"
+        },
+        "Screenshot 2024-06-27 163040": {
+            "image_path": "Outputs/Screenshot 2024-06-27 163040.jpg"
+        },
+        "Screenshot 2024-06-27 163052": {
+            "image_path": "Outputs/Screenshot 2024-06-27 163052.jpg"
+        },
+        "Screenshot 2024-06-27 163101": {
+            "image_path": "Outputs/Screenshot 2024-06-27 163101.jpg"
+        },
+        "Screenshot 2024-06-27 163211": {
+            "image_path": "Outputs/Screenshot 2024-06-27 163211.jpg"
+        },
+        "Screenshot 2024-06-27 163241": {
+            "image_path": "Outputs/Screenshot 2024-06-27 163241.jpg"
+        },
+        "Screenshot 2024-06-27 163249": {
+            "image_path": "Outputs/Screenshot 2024-06-27 163249.jpg"
+        },
+        "Screenshot 2024-06-27 163300": {
+            "image_path": "Outputs/Screenshot 2024-06-27 163300.jpg"
+        },
+        "Screenshot 2024-06-27 163354": {
+            "image_path": "Outputs/Screenshot 2024-06-27 163354.jpg"
+        },
+        "Screenshot 2024-06-27 163427": {
+            "image_path": "Outputs/Screenshot 2024-06-27 163427.jpg"
+        },
+        "Screenshot 2024-06-27 163512": {
+            "image_path": "Outputs/Screenshot 2024-06-27 163512.jpg"
+        },
+        "Screenshot 2024-06-27 163543": {
+            "image_path": "Outputs/Screenshot 2024-06-27 163543.jpg"
+        },
+        "Screenshot 2024-06-27 163551": {
+            "image_path": "Outputs/Screenshot 2024-06-27 163551.jpg"
+        },
+        "Screenshot 2024-06-27 163603": {
+            "image_path": "Outputs/Screenshot 2024-06-27 163603.jpg"
+        },
+        "Screenshot 2024-06-27 164118": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164118.jpg"
+        },
+        "Screenshot 2024-06-27 164147": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164147.jpg"
+        },
+        "Screenshot 2024-06-27 164214": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164214.jpg"
+        },
+        "Screenshot 2024-06-27 164223": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164223.jpg"
+        },
+        "Screenshot 2024-06-27 164236": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164236.jpg"
+        },
+        "Screenshot 2024-06-27 164250": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164250.jpg"
+        },
+        "Screenshot 2024-06-27 164259": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164259.jpg"
+        },
+        "Screenshot 2024-06-27 164312": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164312.jpg"
+        },
+        "Screenshot 2024-06-27 164321": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164321.jpg"
+        },
+        "Screenshot 2024-06-27 164330": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164330.jpg"
+        },
+        "Screenshot 2024-06-27 164339": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164339.jpg"
+        },
+        "Screenshot 2024-06-27 164357": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164357.jpg"
+        },
+        "Screenshot 2024-06-27 164407": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164407.jpg"
+        },
+        "Screenshot 2024-06-27 164442": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164442.jpg"
+        },
+        "Screenshot 2024-06-27 164452": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164452.jpg"
+        },
+        "Screenshot 2024-06-27 164458": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164458.jpg"
+        },
+        "Screenshot 2024-06-27 164508": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164508.jpg"
+        },
+        "Screenshot 2024-06-27 164519": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164519.jpg"
+        },
+        "Screenshot 2024-06-27 164541": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164541.jpg"
+        },
+        "Screenshot 2024-06-27 164609": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164609.jpg"
+        },
+        "Screenshot 2024-06-27 164639": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164639.jpg"
+        },
+        "Screenshot 2024-06-27 164751": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164751.jpg"
+        },
+        "Screenshot 2024-06-27 164913": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164913.jpg"
+        },
+        "Screenshot 2024-06-27 164923": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164923.jpg"
+        },
+        "Screenshot 2024-06-27 164937": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164937.jpg"
+        },
+        "Screenshot 2024-06-27 164945": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164945.jpg"
+        },
+        "Screenshot 2024-06-27 164958": {
+            "image_path": "Outputs/Screenshot 2024-06-27 164958.jpg"
+        },
+        "Screenshot 2024-06-27 165009": {
+            "image_path": "Outputs/Screenshot 2024-06-27 165009.jpg"
+        },
+        "Screenshot 2024-06-27 165028": {
+            "image_path": "Outputs/Screenshot 2024-06-27 165028.jpg"
+        },
+        "Screenshot 2024-06-27 165108": {
+            "image_path": "Outputs/Screenshot 2024-06-27 165108.jpg"
+        },
+        "Screenshot 2024-06-27 165120": {
+            "image_path": "Outputs/Screenshot 2024-06-27 165120.jpg"
+        },
+        "Screenshot 2024-06-27 165153": {
+            "image_path": "Outputs/Screenshot 2024-06-27 165153.jpg"
+        },
+        "Screenshot 2024-06-27 165224": {
+            "image_path": "Outputs/Screenshot 2024-06-27 165224.jpg"
+        },
+        "Screenshot 2024-06-27 165257": {
+            "image_path": "Outputs/Screenshot 2024-06-27 165257.jpg"
+        },
+        "Screenshot 2024-06-27 165318": {
+            "image_path": "Outputs/Screenshot 2024-06-27 165318.jpg"
+        },
+        "Screenshot 2024-06-27 165328": {
+            "image_path": "Outputs/Screenshot 2024-06-27 165328.jpg"
+        },
+        "Screenshot 2024-06-27 165418": {
+            "image_path": "Outputs/Screenshot 2024-06-27 165418.jpg"
+        },
+        "Screenshot 2024-06-27 165429": {
+            "image_path": "Outputs/Screenshot 2024-06-27 165429.jpg"
+        },
+        "Screenshot 2024-06-27 165451": {
+            "image_path": "Outputs/Screenshot 2024-06-27 165451.jpg"
+        },
+        "Screenshot 2024-06-27 165509": {
+            "image_path": "Outputs/Screenshot 2024-06-27 165509.jpg"
+        }
+    },
+    "index_to_ann_map": {
+        "1image": [
+            "1image_0"
+        ],
+        "2image": [
+            "2image_0"
+        ],
+        "Screenshot 2024-06-27 160209": [
+            "Screenshot 2024-06-27 160209_0"
+        ],
+        "Screenshot 2024-06-27 160234": [
+            "Screenshot 2024-06-27 160234_0"
+        ],
+        "Screenshot 2024-06-27 160243": [
+            "Screenshot 2024-06-27 160243_0"
+        ],
+        "Screenshot 2024-06-27 160252": [
+            "Screenshot 2024-06-27 160252_0"
+        ],
+        "Screenshot 2024-06-27 160327": [
+            "Screenshot 2024-06-27 160327_0"
+        ],
+        "Screenshot 2024-06-27 160347": [
+            "Screenshot 2024-06-27 160347_0"
+        ],
+        "Screenshot 2024-06-27 160425": [
+            "Screenshot 2024-06-27 160425_0"
+        ],
+        "Screenshot 2024-06-27 160435": [
+            "Screenshot 2024-06-27 160435_0"
+        ],
+        "Screenshot 2024-06-27 160442": [
+            "Screenshot 2024-06-27 160442_0"
+        ],
+        "Screenshot 2024-06-27 160452": [
+            "Screenshot 2024-06-27 160452_0"
+        ],
+        "Screenshot 2024-06-27 160459": [
+            "Screenshot 2024-06-27 160459_0"
+        ],
+        "Screenshot 2024-06-27 160506": [
+            "Screenshot 2024-06-27 160506_0"
+        ],
+        "Screenshot 2024-06-27 160516": [
+            "Screenshot 2024-06-27 160516_0"
+        ],
+        "Screenshot 2024-06-27 160529": [
+            "Screenshot 2024-06-27 160529_0"
+        ],
+        "Screenshot 2024-06-27 160541": [
+            "Screenshot 2024-06-27 160541_0"
+        ],
+        "Screenshot 2024-06-27 160554": [
+            "Screenshot 2024-06-27 160554_0"
+        ],
+        "Screenshot 2024-06-27 160614": [
+            "Screenshot 2024-06-27 160614_0"
+        ],
+        "Screenshot 2024-06-27 160633": [
+            "Screenshot 2024-06-27 160633_0"
+        ],
+        "Screenshot 2024-06-27 160644": [
+            "Screenshot 2024-06-27 160644_0"
+        ],
+        "Screenshot 2024-06-27 160654": [
+            "Screenshot 2024-06-27 160654_0",
+            "Screenshot 2024-06-27 160654_1"
+        ],
+        "Screenshot 2024-06-27 160707": [
+            "Screenshot 2024-06-27 160707_0"
+        ],
+        "Screenshot 2024-06-27 160716": [
+            "Screenshot 2024-06-27 160716_0"
+        ],
+        "Screenshot 2024-06-27 160730": [
+            "Screenshot 2024-06-27 160730_0"
+        ],
+        "Screenshot 2024-06-27 160737": [
+            "Screenshot 2024-06-27 160737_0"
+        ],
+        "Screenshot 2024-06-27 160749": [
+            "Screenshot 2024-06-27 160749_0"
+        ],
+        "Screenshot 2024-06-27 160759": [
+            "Screenshot 2024-06-27 160759_0"
+        ],
+        "Screenshot 2024-06-27 160806": [
+            "Screenshot 2024-06-27 160806_0"
+        ],
+        "Screenshot 2024-06-27 160813": [
+            "Screenshot 2024-06-27 160813_0"
+        ],
+        "Screenshot 2024-06-27 160822": [
+            "Screenshot 2024-06-27 160822_0"
+        ],
+        "Screenshot 2024-06-27 160831": [
+            "Screenshot 2024-06-27 160831_0"
+        ],
+        "Screenshot 2024-06-27 160843": [
+            "Screenshot 2024-06-27 160843_0"
+        ],
+        "Screenshot 2024-06-27 160850": [
+            "Screenshot 2024-06-27 160850_0"
+        ],
+        "Screenshot 2024-06-27 160918": [
+            "Screenshot 2024-06-27 160918_0"
+        ],
+        "Screenshot 2024-06-27 160928": [
+            "Screenshot 2024-06-27 160928_0"
+        ],
+        "Screenshot 2024-06-27 160950": [
+            "Screenshot 2024-06-27 160950_0"
+        ],
+        "Screenshot 2024-06-27 161000": [
+            "Screenshot 2024-06-27 161000_0"
+        ],
+        "Screenshot 2024-06-27 161021": [
+            "Screenshot 2024-06-27 161021_0"
+        ],
+        "Screenshot 2024-06-27 161031": [
+            "Screenshot 2024-06-27 161031_0"
+        ],
+        "Screenshot 2024-06-27 161054": [
+            "Screenshot 2024-06-27 161054_0"
+        ],
+        "Screenshot 2024-06-27 161107": [
+            "Screenshot 2024-06-27 161107_0"
+        ],
+        "Screenshot 2024-06-27 161116": [
+            "Screenshot 2024-06-27 161116_0"
+        ],
+        "Screenshot 2024-06-27 161125": [
+            "Screenshot 2024-06-27 161125_0"
+        ],
+        "Screenshot 2024-06-27 161242": [
+            "Screenshot 2024-06-27 161242_0"
+        ],
+        "Screenshot 2024-06-27 161255": [
+            "Screenshot 2024-06-27 161255_0"
+        ],
+        "Screenshot 2024-06-27 161302": [
+            "Screenshot 2024-06-27 161302_0"
+        ],
+        "Screenshot 2024-06-27 161312": [
+            "Screenshot 2024-06-27 161312_0"
+        ],
+        "Screenshot 2024-06-27 161327": [
+            "Screenshot 2024-06-27 161327_0"
+        ],
+        "Screenshot 2024-06-27 161336": [
+            "Screenshot 2024-06-27 161336_0"
+        ],
+        "Screenshot 2024-06-27 161346": [
+            "Screenshot 2024-06-27 161346_0"
+        ],
+        "Screenshot 2024-06-27 161401": [
+            "Screenshot 2024-06-27 161401_0"
+        ],
+        "Screenshot 2024-06-27 161425": [
+            "Screenshot 2024-06-27 161425_0"
+        ],
+        "Screenshot 2024-06-27 161434": [
+            "Screenshot 2024-06-27 161434_0"
+        ],
+        "Screenshot 2024-06-27 161444": [
+            "Screenshot 2024-06-27 161444_0"
+        ],
+        "Screenshot 2024-06-27 161532": [
+            "Screenshot 2024-06-27 161532_0"
+        ],
+        "Screenshot 2024-06-27 161543": [
+            "Screenshot 2024-06-27 161543_0"
+        ],
+        "Screenshot 2024-06-27 161609": [
+            "Screenshot 2024-06-27 161609_0"
+        ],
+        "Screenshot 2024-06-27 161616": [
+            "Screenshot 2024-06-27 161616_0"
+        ],
+        "Screenshot 2024-06-27 161624": [
+            "Screenshot 2024-06-27 161624_0"
+        ],
+        "Screenshot 2024-06-27 161639": [
+            "Screenshot 2024-06-27 161639_0",
+            "Screenshot 2024-06-27 161639_1"
+        ],
+        "Screenshot 2024-06-27 161647": [
+            "Screenshot 2024-06-27 161647_0"
+        ],
+        "Screenshot 2024-06-27 161657": [
+            "Screenshot 2024-06-27 161657_0"
+        ],
+        "Screenshot 2024-06-27 161706": [
+            "Screenshot 2024-06-27 161706_0"
+        ],
+        "Screenshot 2024-06-27 161717": [
+            "Screenshot 2024-06-27 161717_0"
+        ],
+        "Screenshot 2024-06-27 161726": [
+            "Screenshot 2024-06-27 161726_0"
+        ],
+        "Screenshot 2024-06-27 161738": [
+            "Screenshot 2024-06-27 161738_0"
+        ],
+        "Screenshot 2024-06-27 161746": [
+            "Screenshot 2024-06-27 161746_0",
+            "Screenshot 2024-06-27 161746_1"
+        ],
+        "Screenshot 2024-06-27 161753": [
+            "Screenshot 2024-06-27 161753_0"
+        ],
+        "Screenshot 2024-06-27 161804": [
+            "Screenshot 2024-06-27 161804_0"
+        ],
+        "Screenshot 2024-06-27 161814": [
+            "Screenshot 2024-06-27 161814_0"
+        ],
+        "Screenshot 2024-06-27 161822": [
+            "Screenshot 2024-06-27 161822_0"
+        ],
+        "Screenshot 2024-06-27 161830": [
+            "Screenshot 2024-06-27 161830_0"
+        ],
+        "Screenshot 2024-06-27 161837": [
+            "Screenshot 2024-06-27 161837_0"
+        ],
+        "Screenshot 2024-06-27 161844": [
+            "Screenshot 2024-06-27 161844_0"
+        ],
+        "Screenshot 2024-06-27 161856": [
+            "Screenshot 2024-06-27 161856_0"
+        ],
+        "Screenshot 2024-06-27 161904": [
+            "Screenshot 2024-06-27 161904_0"
+        ],
+        "Screenshot 2024-06-27 161912": [
+            "Screenshot 2024-06-27 161912_0"
+        ],
+        "Screenshot 2024-06-27 161931": [
+            "Screenshot 2024-06-27 161931_0"
+        ],
+        "Screenshot 2024-06-27 161938": [
+            "Screenshot 2024-06-27 161938_0"
+        ],
+        "Screenshot 2024-06-27 161946": [
+            "Screenshot 2024-06-27 161946_0"
+        ],
+        "Screenshot 2024-06-27 162005": [
+            "Screenshot 2024-06-27 162005_0"
+        ],
+        "Screenshot 2024-06-27 162029": [
+            "Screenshot 2024-06-27 162029_0"
+        ],
+        "Screenshot 2024-06-27 162049": [
+            "Screenshot 2024-06-27 162049_0"
+        ],
+        "Screenshot 2024-06-27 162057": [
+            "Screenshot 2024-06-27 162057_0"
+        ],
+        "Screenshot 2024-06-27 162108": [
+            "Screenshot 2024-06-27 162108_0"
+        ],
+        "Screenshot 2024-06-27 162119": [
+            "Screenshot 2024-06-27 162119_0"
+        ],
+        "Screenshot 2024-06-27 162126": [
+            "Screenshot 2024-06-27 162126_0"
+        ],
+        "Screenshot 2024-06-27 162136": [
+            "Screenshot 2024-06-27 162136_0"
+        ],
+        "Screenshot 2024-06-27 162144": [
+            "Screenshot 2024-06-27 162144_0"
+        ],
+        "Screenshot 2024-06-27 162151": [
+            "Screenshot 2024-06-27 162151_0",
+            "Screenshot 2024-06-27 162151_1"
+        ],
+        "Screenshot 2024-06-27 162159": [
+            "Screenshot 2024-06-27 162159_0",
+            "Screenshot 2024-06-27 162159_1"
+        ],
+        "Screenshot 2024-06-27 162219": [
+            "Screenshot 2024-06-27 162219_0"
+        ],
+        "Screenshot 2024-06-27 162227": [
+            "Screenshot 2024-06-27 162227_0"
+        ],
+        "Screenshot 2024-06-27 162325": [
+            "Screenshot 2024-06-27 162325_0"
+        ],
+        "Screenshot 2024-06-27 162336": [
+            "Screenshot 2024-06-27 162336_0"
+        ],
+        "Screenshot 2024-06-27 162355": [
+            "Screenshot 2024-06-27 162355_0"
+        ],
+        "Screenshot 2024-06-27 162405": [
+            "Screenshot 2024-06-27 162405_0"
+        ],
+        "Screenshot 2024-06-27 162423": [
+            "Screenshot 2024-06-27 162423_0"
+        ],
+        "Screenshot 2024-06-27 162433": [
+            "Screenshot 2024-06-27 162433_0",
+            "Screenshot 2024-06-27 162433_1"
+        ],
+        "Screenshot 2024-06-27 162447": [
+            "Screenshot 2024-06-27 162447_0"
+        ],
+        "Screenshot 2024-06-27 162530": [
+            "Screenshot 2024-06-27 162530_0"
+        ],
+        "Screenshot 2024-06-27 162538": [
+            "Screenshot 2024-06-27 162538_0"
+        ],
+        "Screenshot 2024-06-27 162546": [
+            "Screenshot 2024-06-27 162546_0"
+        ],
+        "Screenshot 2024-06-27 162553": [
+            "Screenshot 2024-06-27 162553_0"
+        ],
+        "Screenshot 2024-06-27 162609": [
+            "Screenshot 2024-06-27 162609_0"
+        ],
+        "Screenshot 2024-06-27 162618": [
+            "Screenshot 2024-06-27 162618_0"
+        ],
+        "Screenshot 2024-06-27 162635": [
+            "Screenshot 2024-06-27 162635_0"
+        ],
+        "Screenshot 2024-06-27 162657": [
+            "Screenshot 2024-06-27 162657_0"
+        ],
+        "Screenshot 2024-06-27 162733": [
+            "Screenshot 2024-06-27 162733_0"
+        ],
+        "Screenshot 2024-06-27 162758": [
+            "Screenshot 2024-06-27 162758_0"
+        ],
+        "Screenshot 2024-06-27 162809": [
+            "Screenshot 2024-06-27 162809_0"
+        ],
+        "Screenshot 2024-06-27 162820": [
+            "Screenshot 2024-06-27 162820_0"
+        ],
+        "Screenshot 2024-06-27 162842": [
+            "Screenshot 2024-06-27 162842_0"
+        ],
+        "Screenshot 2024-06-27 162859": [
+            "Screenshot 2024-06-27 162859_0"
+        ],
+        "Screenshot 2024-06-27 162910": [
+            "Screenshot 2024-06-27 162910_0"
+        ],
+        "Screenshot 2024-06-27 163014": [
+            "Screenshot 2024-06-27 163014_0"
+        ],
+        "Screenshot 2024-06-27 163026": [
+            "Screenshot 2024-06-27 163026_0"
+        ],
+        "Screenshot 2024-06-27 163040": [
+            "Screenshot 2024-06-27 163040_0"
+        ],
+        "Screenshot 2024-06-27 163052": [
+            "Screenshot 2024-06-27 163052_0"
+        ],
+        "Screenshot 2024-06-27 163101": [
+            "Screenshot 2024-06-27 163101_0"
+        ],
+        "Screenshot 2024-06-27 163211": [
+            "Screenshot 2024-06-27 163211_0"
+        ],
+        "Screenshot 2024-06-27 163241": [
+            "Screenshot 2024-06-27 163241_0"
+        ],
+        "Screenshot 2024-06-27 163249": [
+            "Screenshot 2024-06-27 163249_0"
+        ],
+        "Screenshot 2024-06-27 163300": [
+            "Screenshot 2024-06-27 163300_0"
+        ],
+        "Screenshot 2024-06-27 163354": [
+            "Screenshot 2024-06-27 163354_0"
+        ],
+        "Screenshot 2024-06-27 163427": [
+            "Screenshot 2024-06-27 163427_0"
+        ],
+        "Screenshot 2024-06-27 163512": [
+            "Screenshot 2024-06-27 163512_0"
+        ],
+        "Screenshot 2024-06-27 163543": [
+            "Screenshot 2024-06-27 163543_0"
+        ],
+        "Screenshot 2024-06-27 163551": [
+            "Screenshot 2024-06-27 163551_0",
+            "Screenshot 2024-06-27 163551_1"
+        ],
+        "Screenshot 2024-06-27 163603": [
+            "Screenshot 2024-06-27 163603_0"
+        ],
+        "Screenshot 2024-06-27 164118": [
+            "Screenshot 2024-06-27 164118_0"
+        ],
+        "Screenshot 2024-06-27 164147": [
+            "Screenshot 2024-06-27 164147_0"
+        ],
+        "Screenshot 2024-06-27 164214": [
+            "Screenshot 2024-06-27 164214_0"
+        ],
+        "Screenshot 2024-06-27 164223": [
+            "Screenshot 2024-06-27 164223_0"
+        ],
+        "Screenshot 2024-06-27 164236": [
+            "Screenshot 2024-06-27 164236_0"
+        ],
+        "Screenshot 2024-06-27 164250": [
+            "Screenshot 2024-06-27 164250_0"
+        ],
+        "Screenshot 2024-06-27 164259": [
+            "Screenshot 2024-06-27 164259_0"
+        ],
+        "Screenshot 2024-06-27 164312": [
+            "Screenshot 2024-06-27 164312_0"
+        ],
+        "Screenshot 2024-06-27 164321": [
+            "Screenshot 2024-06-27 164321_0"
+        ],
+        "Screenshot 2024-06-27 164330": [
+            "Screenshot 2024-06-27 164330_0"
+        ],
+        "Screenshot 2024-06-27 164339": [
+            "Screenshot 2024-06-27 164339_0"
+        ],
+        "Screenshot 2024-06-27 164357": [
+            "Screenshot 2024-06-27 164357_0"
+        ],
+        "Screenshot 2024-06-27 164407": [
+            "Screenshot 2024-06-27 164407_0"
+        ],
+        "Screenshot 2024-06-27 164442": [
+            "Screenshot 2024-06-27 164442_0"
+        ],
+        "Screenshot 2024-06-27 164452": [
+            "Screenshot 2024-06-27 164452_0"
+        ],
+        "Screenshot 2024-06-27 164458": [
+            "Screenshot 2024-06-27 164458_0"
+        ],
+        "Screenshot 2024-06-27 164508": [
+            "Screenshot 2024-06-27 164508_0"
+        ],
+        "Screenshot 2024-06-27 164519": [
+            "Screenshot 2024-06-27 164519_0"
+        ],
+        "Screenshot 2024-06-27 164541": [
+            "Screenshot 2024-06-27 164541_0"
+        ],
+        "Screenshot 2024-06-27 164609": [
+            "Screenshot 2024-06-27 164609_0"
+        ],
+        "Screenshot 2024-06-27 164639": [
+            "Screenshot 2024-06-27 164639_0"
+        ],
+        "Screenshot 2024-06-27 164751": [
+            "Screenshot 2024-06-27 164751_0"
+        ],
+        "Screenshot 2024-06-27 164913": [
+            "Screenshot 2024-06-27 164913_0"
+        ],
+        "Screenshot 2024-06-27 164923": [
+            "Screenshot 2024-06-27 164923_0"
+        ],
+        "Screenshot 2024-06-27 164937": [
+            "Screenshot 2024-06-27 164937_0"
+        ],
+        "Screenshot 2024-06-27 164945": [
+            "Screenshot 2024-06-27 164945_0"
+        ],
+        "Screenshot 2024-06-27 164958": [
+            "Screenshot 2024-06-27 164958_0"
+        ],
+        "Screenshot 2024-06-27 165009": [
+            "Screenshot 2024-06-27 165009_0"
+        ],
+        "Screenshot 2024-06-27 165028": [
+            "Screenshot 2024-06-27 165028_0"
+        ],
+        "Screenshot 2024-06-27 165108": [
+            "Screenshot 2024-06-27 165108_0"
+        ],
+        "Screenshot 2024-06-27 165120": [
+            "Screenshot 2024-06-27 165120_0"
+        ],
+        "Screenshot 2024-06-27 165153": [
+            "Screenshot 2024-06-27 165153_0"
+        ],
+        "Screenshot 2024-06-27 165224": [
+            "Screenshot 2024-06-27 165224_0"
+        ],
+        "Screenshot 2024-06-27 165257": [
+            "Screenshot 2024-06-27 165257_0"
+        ],
+        "Screenshot 2024-06-27 165318": [
+            "Screenshot 2024-06-27 165318_0"
+        ],
+        "Screenshot 2024-06-27 165328": [
+            "Screenshot 2024-06-27 165328_0"
+        ],
+        "Screenshot 2024-06-27 165418": [
+            "Screenshot 2024-06-27 165418_0"
+        ],
+        "Screenshot 2024-06-27 165429": [
+            "Screenshot 2024-06-27 165429_0"
+        ],
+        "Screenshot 2024-06-27 165451": [
+            "Screenshot 2024-06-27 165451_0"
+        ],
+        "Screenshot 2024-06-27 165509": [
+            "Screenshot 2024-06-27 165509_0"
+        ]
+    },
+    "ann_id": {
+        "1image_0": {
+            "word": "INDUS",
+            "bounding_box": [
+                15,
+                9,
+                115,
+                34,
+                96
+            ]
+        },
+        "2image_0": {
+            "word": "TOYOTA",
+            "bounding_box": [
+                0,
+                11,
+                157,
+                39,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 160209_0": {
+            "word": "DAIHATSU",
+            "bounding_box": [
+                1,
+                10,
+                115,
+                28,
+                94
+            ]
+        },
+        "Screenshot 2024-06-27 160234_0": {
+            "word": "MOTOR",
+            "bounding_box": [
+                9,
+                8,
+                130,
+                33,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 160243_0": {
+            "word": "COMPANY",
+            "bounding_box": [
+                6,
+                5,
+                174,
+                30,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 160252_0": {
+            "word": "LIMITED",
+            "bounding_box": [
+                5,
+                11,
+                134,
+                35,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 160327_0": {
+            "word": "SERIAL",
+            "bounding_box": [
+                3,
+                7,
+                75,
+                22,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 160347_0": {
+            "word": "A514073",
+            "bounding_box": [
+                5,
+                4,
+                102,
+                24,
+                83
+            ]
+        },
+        "Screenshot 2024-06-27 160425_0": {
+            "word": "0090882335001",
+            "bounding_box": [
+                1,
+                7,
+                94,
+                18,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 160435_0": {
+            "word": "09.02.2021",
+            "bounding_box": [
+                2,
+                3,
+                66,
+                13,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 160442_0": {
+            "word": "Date",
+            "bounding_box": [
+                3,
+                4,
+                30,
+                14,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 160452_0": {
+            "word": "Certified",
+            "bounding_box": [
+                7,
+                7,
+                60,
+                17,
+                94
+            ]
+        },
+        "Screenshot 2024-06-27 160459_0": {
+            "word": "that",
+            "bounding_box": [
+                1,
+                7,
+                25,
+                18,
+                92
+            ]
+        },
+        "Screenshot 2024-06-27 160506_0": {
+            "word": "the",
+            "bounding_box": [
+                3,
+                4,
+                23,
+                14,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 160516_0": {
+            "word": "undermentioned",
+            "bounding_box": [
+                5,
+                8,
+                108,
+                18,
+                91
+            ]
+        },
+        "Screenshot 2024-06-27 160529_0": {
+            "word": "vehicle",
+            "bounding_box": [
+                4,
+                5,
+                49,
+                15,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 160541_0": {
+            "word": "been",
+            "bounding_box": [
+                6,
+                5,
+                35,
+                15,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 160554_0": {
+            "word": "sold",
+            "bounding_box": [
+                2,
+                5,
+                29,
+                15,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 160614_0": {
+            "word": "ABDUL",
+            "bounding_box": [
+                2,
+                6,
+                48,
+                16,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 160633_0": {
+            "word": "41TH",
+            "bounding_box": [
+                4,
+                10,
+                34,
+                20,
+                86
+            ]
+        },
+        "Screenshot 2024-06-27 160644_0": {
+            "word": "FLOOR,",
+            "bounding_box": [
+                3,
+                5,
+                52,
+                17,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 160654_0": {
+            "word": ",",
+            "bounding_box": [
+                0,
+                12,
+                2,
+                16,
+                11
+            ]
+        },
+        "Screenshot 2024-06-27 160654_1": {
+            "word": "EXECUTIVE",
+            "bounding_box": [
+                7,
+                4,
+                82,
+                14,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 160707_0": {
+            "word": "TOWER,",
+            "bounding_box": [
+                4,
+                6,
+                56,
+                18,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 160716_0": {
+            "word": "DOLMEN",
+            "bounding_box": [
+                1,
+                9,
+                58,
+                20,
+                90
+            ]
+        },
+        "Screenshot 2024-06-27 160730_0": {
+            "word": "CITY",
+            "bounding_box": [
+                3,
+                4,
+                32,
+                14,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 160737_0": {
+            "word": "MARINE",
+            "bounding_box": [
+                4,
+                6,
+                55,
+                16,
+                83
+            ]
+        },
+        "Screenshot 2024-06-27 160749_0": {
+            "word": "DRIVE,",
+            "bounding_box": [
+                10,
+                7,
+                52,
+                18,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 160759_0": {
+            "word": "BLOCK-4,",
+            "bounding_box": [
+                2,
+                6,
+                63,
+                18,
+                92
+            ]
+        },
+        "Screenshot 2024-06-27 160806_0": {
+            "word": "CLIFTON",
+            "bounding_box": [
+                2,
+                5,
+                58,
+                15,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 160813_0": {
+            "word": "KARACHI",
+            "bounding_box": [
+                7,
+                10,
+                65,
+                20,
+                92
+            ]
+        },
+        "Screenshot 2024-06-27 160822_0": {
+            "word": "Model",
+            "bounding_box": [
+                7,
+                7,
+                44,
+                17,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 160831_0": {
+            "word": "Code",
+            "bounding_box": [
+                3,
+                8,
+                36,
+                19,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 160843_0": {
+            "word": "YARIS:",
+            "bounding_box": [
+                4,
+                7,
+                44,
+                18,
+                57
+            ]
+        },
+        "Screenshot 2024-06-27 160850_0": {
+            "word": "6628",
+            "bounding_box": [
+                3,
+                11,
+                33,
+                21,
+                90
+            ]
+        },
+        "Screenshot 2024-06-27 160918_0": {
+            "word": "Color",
+            "bounding_box": [
+                10,
+                5,
+                45,
+                15,
+                92
+            ]
+        },
+        "Screenshot 2024-06-27 160928_0": {
+            "word": "1D4",
+            "bounding_box": [
+                3,
+                1,
+                26,
+                11,
+                91
+            ]
+        },
+        "Screenshot 2024-06-27 160950_0": {
+            "word": "Description",
+            "bounding_box": [
+                3,
+                2,
+                75,
+                14,
+                84
+            ]
+        },
+        "Screenshot 2024-06-27 161000_0": {
+            "word": "ATIV",
+            "bounding_box": [
+                3,
+                5,
+                32,
+                15,
+                86
+            ]
+        },
+        "Screenshot 2024-06-27 161021_0": {
+            "word": "1496CC",
+            "bounding_box": [
+                4,
+                9,
+                51,
+                19,
+                60
+            ]
+        },
+        "Screenshot 2024-06-27 161031_0": {
+            "word": "Engine",
+            "bounding_box": [
+                9,
+                6,
+                52,
+                18,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 161054_0": {
+            "word": "218474",
+            "bounding_box": [
+                3,
+                5,
+                55,
+                15,
+                29
+            ]
+        },
+        "Screenshot 2024-06-27 161107_0": {
+            "word": "Dealer's",
+            "bounding_box": [
+                7,
+                3,
+                51,
+                12,
+                90
+            ]
+        },
+        "Screenshot 2024-06-27 161116_0": {
+            "word": "\u2018Signature",
+            "bounding_box": [
+                4,
+                3,
+                56,
+                15,
+                77
+            ]
+        },
+        "Screenshot 2024-06-27 161125_0": {
+            "word": "\u2018Stamp",
+            "bounding_box": [
+                4,
+                6,
+                39,
+                18,
+                91
+            ]
+        },
+        "Screenshot 2024-06-27 161242_0": {
+            "word": "All",
+            "bounding_box": [
+                5,
+                4,
+                21,
+                13,
+                60
+            ]
+        },
+        "Screenshot 2024-06-27 161255_0": {
+            "word": "applicable.",
+            "bounding_box": [
+                5,
+                4,
+                69,
+                16,
+                53
+            ]
+        },
+        "Screenshot 2024-06-27 161302_0": {
+            "word": "duties",
+            "bounding_box": [
+                4,
+                4,
+                42,
+                14,
+                76
+            ]
+        },
+        "Screenshot 2024-06-27 161312_0": {
+            "word": "and",
+            "bounding_box": [
+                3,
+                9,
+                26,
+                18,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 161327_0": {
+            "word": "taxes",
+            "bounding_box": [
+                2,
+                9,
+                35,
+                18,
+                94
+            ]
+        },
+        "Screenshot 2024-06-27 161336_0": {
+            "word": "on:",
+            "bounding_box": [
+                6,
+                10,
+                27,
+                18,
+                67
+            ]
+        },
+        "Screenshot 2024-06-27 161346_0": {
+            "word": "this",
+            "bounding_box": [
+                4,
+                10,
+                27,
+                19,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 161401_0": {
+            "word": "vehicle",
+            "bounding_box": [
+                3,
+                5,
+                48,
+                15,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 161425_0": {
+            "word": "have",
+            "bounding_box": [
+                2,
+                2,
+                32,
+                12,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 161434_0": {
+            "word": "been",
+            "bounding_box": [
+                3,
+                6,
+                32,
+                16,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 161444_0": {
+            "word": "paid.",
+            "bounding_box": [
+                4,
+                3,
+                31,
+                15,
+                86
+            ]
+        },
+        "Screenshot 2024-06-27 161532_0": {
+            "word": "For",
+            "bounding_box": [
+                5,
+                5,
+                26,
+                15,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 161543_0": {
+            "word": "The",
+            "bounding_box": [
+                0,
+                8,
+                22,
+                18,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 161609_0": {
+            "word": "Invoice",
+            "bounding_box": [
+                2,
+                1,
+                47,
+                11,
+                73
+            ]
+        },
+        "Screenshot 2024-06-27 161616_0": {
+            "word": "90882335",
+            "bounding_box": [
+                4,
+                5,
+                62,
+                15,
+                82
+            ]
+        },
+        "Screenshot 2024-06-27 161624_0": {
+            "word": "2021",
+            "bounding_box": [
+                4,
+                8,
+                31,
+                18,
+                85
+            ]
+        },
+        "Screenshot 2024-06-27 161639_0": {
+            "word": "has",
+            "bounding_box": [
+                3,
+                6,
+                25,
+                16,
+                23
+            ]
+        },
+        "Screenshot 2024-06-27 161639_1": {
+            "word": "|",
+            "bounding_box": [
+                26,
+                0,
+                30,
+                21,
+                23
+            ]
+        },
+        "Screenshot 2024-06-27 161647_0": {
+            "word": "been",
+            "bounding_box": [
+                4,
+                6,
+                34,
+                16,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 161657_0": {
+            "word": "manufactured",
+            "bounding_box": [
+                3,
+                7,
+                90,
+                17,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 161706_0": {
+            "word": "assembled",
+            "bounding_box": [
+                0,
+                9,
+                68,
+                19,
+                90
+            ]
+        },
+        "Screenshot 2024-06-27 161717_0": {
+            "word": "Rear",
+            "bounding_box": [
+                9,
+                4,
+                38,
+                14,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 161726_0": {
+            "word": "Wheels",
+            "bounding_box": [
+                4,
+                6,
+                50,
+                16,
+                90
+            ]
+        },
+        "Screenshot 2024-06-27 161738_0": {
+            "word": "Front",
+            "bounding_box": [
+                4,
+                8,
+                38,
+                19,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 161746_0": {
+            "word": " ",
+            "bounding_box": [
+                41,
+                6,
+                49,
+                8,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 161746_1": {
+            "word": "\u2018Tyres:",
+            "bounding_box": [
+                5,
+                3,
+                43,
+                16,
+                72
+            ]
+        },
+        "Screenshot 2024-06-27 161753_0": {
+            "word": "Wheelbase",
+            "bounding_box": [
+                8,
+                7,
+                78,
+                17,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 161804_0": {
+            "word": "Maximum",
+            "bounding_box": [
+                3,
+                8,
+                63,
+                18,
+                93
+            ]
+        },
+        "Screenshot 2024-06-27 161814_0": {
+            "word": "Weight",
+            "bounding_box": [
+                5,
+                8,
+                50,
+                20,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 161822_0": {
+            "word": "Axle",
+            "bounding_box": [
+                3,
+                8,
+                30,
+                18,
+                92
+            ]
+        },
+        "Screenshot 2024-06-27 161830_0": {
+            "word": "450",
+            "bounding_box": [
+                0,
+                7,
+                21,
+                17,
+                79
+            ]
+        },
+        "Screenshot 2024-06-27 161837_0": {
+            "word": "KGS",
+            "bounding_box": [
+                7,
+                3,
+                35,
+                13,
+                79
+            ]
+        },
+        "Screenshot 2024-06-27 161844_0": {
+            "word": "R15",
+            "bounding_box": [
+                4,
+                2,
+                27,
+                12,
+                89
+            ]
+        },
+        "Screenshot 2024-06-27 161856_0": {
+            "word": "2550",
+            "bounding_box": [
+                6,
+                8,
+                35,
+                18,
+                90
+            ]
+        },
+        "Screenshot 2024-06-27 161904_0": {
+            "word": "685",
+            "bounding_box": [
+                6,
+                9,
+                28,
+                19,
+                69
+            ]
+        },
+        "Screenshot 2024-06-27 161912_0": {
+            "word": "1135,",
+            "bounding_box": [
+                4,
+                6,
+                33,
+                16,
+                71
+            ]
+        },
+        "Screenshot 2024-06-27 161931_0": {
+            "word": "Document",
+            "bounding_box": [
+                9,
+                8,
+                89,
+                20,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 161938_0": {
+            "word": "to",
+            "bounding_box": [
+                5,
+                5,
+                20,
+                17,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 161946_0": {
+            "word": "be\u2019",
+            "bounding_box": [
+                0,
+                9,
+                34,
+                22,
+                28
+            ]
+        },
+        "Screenshot 2024-06-27 162005_0": {
+            "word": "furnished",
+            "bounding_box": [
+                5,
+                7,
+                80,
+                20,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 162029_0": {
+            "word": "maker",
+            "bounding_box": [
+                3,
+                5,
+                51,
+                17,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 162049_0": {
+            "word": "Assembler",
+            "bounding_box": [
+                2,
+                8,
+                86,
+                20,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 162057_0": {
+            "word": "Sole",
+            "bounding_box": [
+                4,
+                10,
+                38,
+                23,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 162108_0": {
+            "word": "Distributor",
+            "bounding_box": [
+                8,
+                10,
+                92,
+                23,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 162119_0": {
+            "word": "case",
+            "bounding_box": [
+                3,
+                7,
+                38,
+                17,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 162126_0": {
+            "word": "of",
+            "bounding_box": [
+                3,
+                10,
+                18,
+                23,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 162136_0": {
+            "word": "Transport",
+            "bounding_box": [
+                1,
+                7,
+                78,
+                23,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 162144_0": {
+            "word": "other",
+            "bounding_box": [
+                3,
+                5,
+                44,
+                18,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 162151_0": {
+            "word": "Motor",
+            "bounding_box": [
+                5,
+                6,
+                51,
+                19,
+                88
+            ]
+        },
+        "Screenshot 2024-06-27 162151_1": {
+            "word": "|",
+            "bounding_box": [
+                56,
+                8,
+                58,
+                16,
+                41
+            ]
+        },
+        "Screenshot 2024-06-27 162159_0": {
+            "word": " ",
+            "bounding_box": [
+                0,
+                0,
+                50,
+                5,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 162159_1": {
+            "word": "Cabs.",
+            "bounding_box": [
+                4,
+                0,
+                53,
+                21,
+                81
+            ]
+        },
+        "Screenshot 2024-06-27 162219_0": {
+            "word": "Certified",
+            "bounding_box": [
+                6,
+                9,
+                59,
+                19,
+                92
+            ]
+        },
+        "Screenshot 2024-06-27 162227_0": {
+            "word": "under",
+            "bounding_box": [
+                4,
+                6,
+                40,
+                16,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 162325_0": {
+            "word": "Factory,",
+            "bounding_box": [
+                6,
+                0,
+                52,
+                20,
+                48
+            ]
+        },
+        "Screenshot 2024-06-27 162336_0": {
+            "word": "Registered",
+            "bounding_box": [
+                4,
+                4,
+                62,
+                18,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 162355_0": {
+            "word": "alterations",
+            "bounding_box": [
+                0,
+                5,
+                73,
+                17,
+                89
+            ]
+        },
+        "Screenshot 2024-06-27 162405_0": {
+            "word": "additions.",
+            "bounding_box": [
+                2,
+                8,
+                64,
+                18,
+                94
+            ]
+        },
+        "Screenshot 2024-06-27 162423_0": {
+            "word": "issued",
+            "bounding_box": [
+                4,
+                7,
+                45,
+                17,
+                87
+            ]
+        },
+        "Screenshot 2024-06-27 162433_0": {
+            "word": "|",
+            "bounding_box": [
+                0,
+                5,
+                2,
+                16,
+                71
+            ]
+        },
+        "Screenshot 2024-06-27 162433_1": {
+            "word": "Office",
+            "bounding_box": [
+                6,
+                0,
+                45,
+                16,
+                84
+            ]
+        },
+        "Screenshot 2024-06-27 162447_0": {
+            "word": "Plot",
+            "bounding_box": [
+                4,
+                6,
+                26,
+                16,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 162530_0": {
+            "word": "Block-G,",
+            "bounding_box": [
+                6,
+                4,
+                98,
+                25,
+                92
+            ]
+        },
+        "Screenshot 2024-06-27 162538_0": {
+            "word": "Islamabad",
+            "bounding_box": [
+                6,
+                5,
+                110,
+                24,
+                94
+            ]
+        },
+        "Screenshot 2024-06-27 162546_0": {
+            "word": "Link",
+            "bounding_box": [
+                4,
+                0,
+                55,
+                29,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 162553_0": {
+            "word": "Road,",
+            "bounding_box": [
+                4,
+                4,
+                64,
+                26,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 162609_0": {
+            "word": "Town,",
+            "bounding_box": [
+                7,
+                7,
+                72,
+                29,
+                94
+            ]
+        },
+        "Screenshot 2024-06-27 162618_0": {
+            "word": "Awan",
+            "bounding_box": [
+                6,
+                5,
+                65,
+                24,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 162635_0": {
+            "word": "Floor,",
+            "bounding_box": [
+                7,
+                4,
+                67,
+                26,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 162657_0": {
+            "word": "Phones:(92-42)",
+            "bounding_box": [
+                4,
+                0,
+                163,
+                39,
+                92
+            ]
+        },
+        "Screenshot 2024-06-27 162733_0": {
+            "word": "35926465.",
+            "bounding_box": [
+                7,
+                7,
+                116,
+                26,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 162758_0": {
+            "word": "2810302.",
+            "bounding_box": [
+                3,
+                8,
+                99,
+                27,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 162809_0": {
+            "word": "34720037.",
+            "bounding_box": [
+                6,
+                6,
+                115,
+                25,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 162820_0": {
+            "word": "Karachi.",
+            "bounding_box": [
+                2,
+                8,
+                90,
+                27,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 162842_0": {
+            "word": "(92-51)",
+            "bounding_box": [
+                6,
+                7,
+                82,
+                30,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 162859_0": {
+            "word": "COMPANY",
+            "bounding_box": [
+                2,
+                4,
+                125,
+                23,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 162910_0": {
+            "word": "Front",
+            "bounding_box": [
+                5,
+                6,
+                67,
+                26,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 163014_0": {
+            "word": "Pakistan",
+            "bounding_box": [
+                4,
+                14,
+                103,
+                33,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 163026_0": {
+            "word": "designed",
+            "bounding_box": [
+                4,
+                9,
+                110,
+                33,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 163040_0": {
+            "word": "maximum",
+            "bounding_box": [
+                13,
+                7,
+                126,
+                26,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 163052_0": {
+            "word": "weight",
+            "bounding_box": [
+                6,
+                5,
+                85,
+                29,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 163101_0": {
+            "word": "follows:",
+            "bounding_box": [
+                6,
+                8,
+                98,
+                27,
+                94
+            ]
+        },
+        "Screenshot 2024-06-27 163211_0": {
+            "word": "Form",
+            "bounding_box": [
+                15,
+                15,
+                74,
+                34,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 163241_0": {
+            "word": "(Authorized",
+            "bounding_box": [
+                6,
+                8,
+                139,
+                31,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 163249_0": {
+            "word": "Signature)",
+            "bounding_box": [
+                6,
+                6,
+                126,
+                29,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 163300_0": {
+            "word": "Nazimuddin",
+            "bounding_box": [
+                8,
+                5,
+                135,
+                24,
+                92
+            ]
+        },
+        "Screenshot 2024-06-27 163354_0": {
+            "word": "for",
+            "bounding_box": [
+                5,
+                6,
+                38,
+                25,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 163427_0": {
+            "word": "NSP151R-9507502",
+            "bounding_box": [
+                5,
+                12,
+                215,
+                32,
+                91
+            ]
+        },
+        "Screenshot 2024-06-27 163512_0": {
+            "word": "N.W.Z/I/P-I,",
+            "bounding_box": [
+                4,
+                0,
+                143,
+                28,
+                0
+            ]
+        },
+        "Screenshot 2024-06-27 163543_0": {
+            "word": "Port",
+            "bounding_box": [
+                5,
+                4,
+                47,
+                23,
+                97
+            ]
+        },
+        "Screenshot 2024-06-27 163551_0": {
+            "word": "Qasim",
+            "bounding_box": [
+                0,
+                0,
+                75,
+                32,
+                73
+            ]
+        },
+        "Screenshot 2024-06-27 163551_1": {
+            "word": ";",
+            "bounding_box": [
+                83,
+                20,
+                86,
+                26,
+                36
+            ]
+        },
+        "Screenshot 2024-06-27 163603_0": {
+            "word": "Karachi.",
+            "bounding_box": [
+                4,
+                7,
+                92,
+                26,
+                94
+            ]
+        },
+        "Screenshot 2024-06-27 164118_0": {
+            "word": "Photography",
+            "bounding_box": [
+                9,
+                14,
+                96,
+                27,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 164147_0": {
+            "word": "ACCOUNT",
+            "bounding_box": [
+                6,
+                7,
+                82,
+                19,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 164214_0": {
+            "word": "LLC",
+            "bounding_box": [
+                7,
+                6,
+                31,
+                16,
+                86
+            ]
+        },
+        "Screenshot 2024-06-27 164223_0": {
+            "word": "Balance",
+            "bounding_box": [
+                9,
+                5,
+                59,
+                16,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 164236_0": {
+            "word": "Abraham",
+            "bounding_box": [
+                5,
+                5,
+                63,
+                15,
+                88
+            ]
+        },
+        "Screenshot 2024-06-27 164250_0": {
+            "word": "BMO",
+            "bounding_box": [
+                6,
+                9,
+                49,
+                21,
+                93
+            ]
+        },
+        "Screenshot 2024-06-27 164259_0": {
+            "word": "Statement",
+            "bounding_box": [
+                11,
+                9,
+                112,
+                24,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 164312_0": {
+            "word": "Transaction",
+            "bounding_box": [
+                9,
+                7,
+                92,
+                18,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 164321_0": {
+            "word": "Summary:",
+            "bounding_box": [
+                2,
+                11,
+                73,
+                26,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 164330_0": {
+            "word": "required.",
+            "bounding_box": [
+                1,
+                15,
+                58,
+                27,
+                94
+            ]
+        },
+        "Screenshot 2024-06-27 164339_0": {
+            "word": "payment",
+            "bounding_box": [
+                2,
+                13,
+                56,
+                24,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 164357_0": {
+            "word": "your",
+            "bounding_box": [
+                5,
+                11,
+                40,
+                20,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 164407_0": {
+            "word": "records",
+            "bounding_box": [
+                6,
+                8,
+                55,
+                18,
+                93
+            ]
+        },
+        "Screenshot 2024-06-27 164442_0": {
+            "word": "Branch",
+            "bounding_box": [
+                12,
+                9,
+                70,
+                22,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 164452_0": {
+            "word": "Withdrawals",
+            "bounding_box": [
+                4,
+                14,
+                87,
+                27,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 164458_0": {
+            "word": "Deposits",
+            "bounding_box": [
+                10,
+                14,
+                69,
+                30,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 164508_0": {
+            "word": "Description",
+            "bounding_box": [
+                11,
+                14,
+                88,
+                30,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 164519_0": {
+            "word": "Closing",
+            "bounding_box": [
+                5,
+                7,
+                57,
+                23,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 164541_0": {
+            "word": "Opening",
+            "bounding_box": [
+                3,
+                3,
+                60,
+                20,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 164609_0": {
+            "word": "Bucks",
+            "bounding_box": [
+                4,
+                10,
+                44,
+                23,
+                87
+            ]
+        },
+        "Screenshot 2024-06-27 164639_0": {
+            "word": "John",
+            "bounding_box": [
+                3,
+                11,
+                29,
+                21,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 164751_0": {
+            "word": "Number",
+            "bounding_box": [
+                5,
+                8,
+                45,
+                17,
+                62
+            ]
+        },
+        "Screenshot 2024-06-27 164913_0": {
+            "word": "Department",
+            "bounding_box": [
+                2,
+                8,
+                99,
+                25,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 164923_0": {
+            "word": "Name",
+            "bounding_box": [
+                7,
+                14,
+                39,
+                23,
+                86
+            ]
+        },
+        "Screenshot 2024-06-27 164937_0": {
+            "word": "Sixty",
+            "bounding_box": [
+                6,
+                6,
+                35,
+                18,
+                90
+            ]
+        },
+        "Screenshot 2024-06-27 164945_0": {
+            "word": "Take",
+            "bounding_box": [
+                5,
+                9,
+                37,
+                20,
+                93
+            ]
+        },
+        "Screenshot 2024-06-27 164958_0": {
+            "word": "Office",
+            "bounding_box": [
+                11,
+                7,
+                49,
+                17,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 165009_0": {
+            "word": "Designation:",
+            "bounding_box": [
+                5,
+                8,
+                84,
+                21,
+                80
+            ]
+        },
+        "Screenshot 2024-06-27 165028_0": {
+            "word": "GPF",
+            "bounding_box": [
+                3,
+                5,
+                32,
+                15,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 165108_0": {
+            "word": "Month",
+            "bounding_box": [
+                0,
+                11,
+                69,
+                28,
+                34
+            ]
+        },
+        "Screenshot 2024-06-27 165120_0": {
+            "word": "Assistant",
+            "bounding_box": [
+                12,
+                8,
+                85,
+                22,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 165153_0": {
+            "word": "Address:",
+            "bounding_box": [
+                11,
+                8,
+                124,
+                30,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 165224_0": {
+            "word": "02-Nov-22",
+            "bounding_box": [
+                15,
+                10,
+                152,
+                30,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 165257_0": {
+            "word": "Designation",
+            "bounding_box": [
+                8,
+                8,
+                113,
+                27,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 165318_0": {
+            "word": "Days",
+            "bounding_box": [
+                3,
+                8,
+                45,
+                27,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 165328_0": {
+            "word": "Department",
+            "bounding_box": [
+                3,
+                9,
+                110,
+                28,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 165418_0": {
+            "word": "CONV",
+            "bounding_box": [
+                6,
+                7,
+                48,
+                19,
+                95
+            ]
+        },
+        "Screenshot 2024-06-27 165429_0": {
+            "word": "TDS",
+            "bounding_box": [
+                8,
+                8,
+                39,
+                20,
+                68
+            ]
+        },
+        "Screenshot 2024-06-27 165451_0": {
+            "word": "Operator",
+            "bounding_box": [
+                7,
+                8,
+                72,
+                23,
+                96
+            ]
+        },
+        "Screenshot 2024-06-27 165509_0": {
+            "word": "Rupees",
+            "bounding_box": [
+                4,
+                7,
+                65,
+                21,
+                96
+            ]
+        }
+    }
+}

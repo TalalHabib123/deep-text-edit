@@ -54,18 +54,19 @@ class Config:
                 exit(1)
 
         model_G = StyleBased_Generator(dim_latent=512)
-        # model_G.load_state_dict(torch.load(f'{weights_folder}/model'))
+        model_G.load_state_dict(torch.load(f'{weights_folder}/model_G'))
         model_G.to(device)
 
         style_embedder = StyleResnet().to(device) 
-        # style_embedder.load_state_dict(torch.load(f'{weights_folder}/style_embedder'))
+        style_embedder.load_state_dict(torch.load(f'{weights_folder}/style_embedder'))
 
         content_embedder = ContentResnet().to(device)
-        # content_embedder.load_state_dict(torch.load(f'{weights_folder}/content_embedder'))
+        content_embedder.load_state_dict(torch.load(f'{weights_folder}/content_embedder'))
 
         model_D = NLayerDiscriminator(input_nc=3, ndf=64, n_layers=3, norm_layer=(lambda x : torch.nn.Identity()))
         model_D.to(device)
-
+        model_D.load_state_dict(torch.load(f'{weights_folder}/model_D'))
+        
         optimizer_G = torch.optim.AdamW(
             list(model_G.parameters()) +
             list(style_embedder.parameters()) +
@@ -73,16 +74,20 @@ class Config:
             lr=1e-3,
             weight_decay=1e-6
         )
+        optimizer_G.load_state_dict(torch.load(f'{weights_folder}/optimizer_G'))
         scheduler_G = torch.optim.lr_scheduler.ExponentialLR(
             optimizer_G,
             gamma=0.9
         )
+        scheduler_G.load_state_dict(torch.load(f'{weights_folder}/scheduler_G'))
 
         optimizer_D = torch.optim.AdamW(model_D.parameters(), lr=1e-4)
+        optimizer_D.load_state_dict(torch.load(f'{weights_folder}/optimizer_D'))
         scheduler_D = torch.optim.lr_scheduler.ExponentialLR(
             optimizer_D,
             gamma=0.9
         )
+        scheduler_D.load_state_dict(torch.load(f'{weights_folder}/scheduler_D'))
 
         ocr_coef = 0.07
         cycle_coef = 2.0

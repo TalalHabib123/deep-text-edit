@@ -7,8 +7,8 @@ from src.utils.draw import  draw_word_custom
 from torchvision import transforms as T
 from pathlib import Path
 
-font_styles = ['VerilySerifMono.otf', 'ABeeZee-Regular.otf',]  # 'Actor-Regular.ttf', 'Adamina-Regular.ttf', 'Alef-Regular.ttf', 'Alberta-Regular.ttf', 'Almarai-Bold.ttf', 'Barlow-ExtraBold', 
-
+font_styles = ['VerilySerifMono.otf']  # 'Actor-Regular.ttf', 'Adamina-Regular.ttf', 'Alef-Regular.ttf', 'Alberta-Regular.ttf', 'Almarai-Bold.ttf', 'Barlow-ExtraBold', 
+# , 'ABeeZee-Regular.otf',
 class CustomDataset(Dataset):
     def __init__(self, dict_file1: Path, typeface_dir: bool = False):
         '''
@@ -52,10 +52,9 @@ class CustomDataset(Dataset):
             word2 = ''.join([i for i in word2 if i in allowed_symbols])
 
             while not word1 or not word2 or word1 == word2:
-                # Correcting the code to work with arrays of strings instead of dictionaries
-                word1 = random.choice(self.words1)
+                # word1 = random.choice(self.words1)
                 word2 = random.choice(self.words2)
-                word1 = ''.join([i for i in word1 if i in allowed_symbols])
+                # word1 = ''.join([i for i in word1 if i in allowed_symbols])
                 word2 = ''.join([i for i in word2 if i in allowed_symbols])
 
             font_style = random.choice(font_styles)
@@ -66,7 +65,7 @@ class CustomDataset(Dataset):
             img_word1 = self.augment(img_word1)
             img_word2 = self.augment(img_word2)
 
-            content_style = self.words1[index]
+            content_style = word1
             content_style = ''.join([i for i in content_style if i in allowed_symbols])
             if not content_style:
                 content_style = 'o'

@@ -33,9 +33,9 @@ class Config:
                 logger.error('You should download IMGUR5K dataset first.')
                 exit(1)
         
-        batch_size = 16
-        # train_dataloader = DataLoader(BaselineDataset(style_dir, return_style_labels=True), shuffle=True, batch_size=batch_size)
-        # val_dataloader = DataLoader(BaselineDataset(style_dir, return_style_labels=True), batch_size=batch_size)
+        batch_size = 8
+        # train_dataloader = DataLoader(BaselineDataset(style_dir / 'Custom/train', return_style_labels=True), shuffle=True, batch_size=batch_size)
+        # val_dataloader = DataLoader(BaselineDataset(style_dir / 'Custom/val',  return_style_labels=True), batch_size=batch_size)
         
         train_dataloader = DataLoader(CustomDataset(style_dir / 'words_list.json' , False), shuffle=True, batch_size=batch_size)
         val_dataloader = DataLoader(CustomDataset(style_dir / 'words_list.json', True), shuffle=True ,batch_size=batch_size)
@@ -65,7 +65,7 @@ class Config:
 
         model_D = NLayerDiscriminator(input_nc=3, ndf=64, n_layers=3, norm_layer=(lambda x : torch.nn.Identity()))
         model_D.to(device)
-        model_D.load_state_dict(torch.load(f'{weights_folder}/model_D'))
+        # model_D.load_state_dict(torch.load(f'{weights_folder}/model_D'))
         
         optimizer_G = torch.optim.AdamW(
             list(model_G.parameters()) +
@@ -74,20 +74,20 @@ class Config:
             lr=1e-3,
             weight_decay=1e-6
         )
-        optimizer_G.load_state_dict(torch.load(f'{weights_folder}/optimizer_G'))
+        # optimizer_G.load_state_dict(torch.load(f'{weights_folder}/optimizer_G'))
         scheduler_G = torch.optim.lr_scheduler.ExponentialLR(
             optimizer_G,
             gamma=0.9
         )
-        scheduler_G.load_state_dict(torch.load(f'{weights_folder}/scheduler_G'))
+        # scheduler_G.load_state_dict(torch.load(f'{weights_folder}/scheduler_G'))
 
         optimizer_D = torch.optim.AdamW(model_D.parameters(), lr=1e-4)
-        optimizer_D.load_state_dict(torch.load(f'{weights_folder}/optimizer_D'))
+        # optimizer_D.load_state_dict(torch.load(f'{weights_folder}/optimizer_D'))
         scheduler_D = torch.optim.lr_scheduler.ExponentialLR(
             optimizer_D,
             gamma=0.9
         )
-        scheduler_D.load_state_dict(torch.load(f'{weights_folder}/scheduler_D'))
+        # scheduler_D.load_state_dict(torch.load(f'{weights_folder}/scheduler_D'))
 
         ocr_coef = 0.07
         cycle_coef = 2.0
@@ -141,7 +141,8 @@ class Config:
             TypefacePerceptualLoss(),
             VGGLoss(),
             torch.nn.L1Loss(),
-            torch.nn.MSELoss()
+            torch.nn.MSELoss(),
+            batch_size
         )
 
     def run(self):

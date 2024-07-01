@@ -40,7 +40,7 @@ class Config:
         train_dataloader = DataLoader(CustomDataset(style_dir / 'words_list.json' , False), shuffle=True, batch_size=batch_size)
         val_dataloader = DataLoader(CustomDataset(style_dir / 'words_list.json', True), shuffle=True ,batch_size=batch_size)
 
-        total_epochs = 10
+        total_epochs = 1
 
         weights_folder_name = 'Stylegan (pretrained on content)'
         weights_folder = f'models/{weights_folder_name}'

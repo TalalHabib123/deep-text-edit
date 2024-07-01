@@ -5,7 +5,9 @@ from src.utils.draw import draw_word, img_to_tensor
 from torch import nn, optim
 from torch.utils.data import DataLoader
 from loguru import logger
-
+import os
+import shutil
+from torchvision.utils import save_image
 
 
 class StyleGanAdvTrainer:
@@ -184,12 +186,22 @@ class StyleGanAdvTrainer:
         self.model_D.eval()
         self.content_embedder.eval()
         self.style_embedder.eval()
+        
+        temp_dir = f"temp_epoch"
+        if os.path.exists(temp_dir):
+            shutil.rmtree(temp_dir)
+        os.makedirs(temp_dir)
 
-        for style_imgs, desired_content, desired_labels, style_content, style_labels in self.val_dataloader:
+        for batch_idx, (style_imgs, desired_content, desired_labels, style_content, style_labels) in enumerate(self.val_dataloader):
             if max(len(label) for label in desired_labels) > 25:
                 continue
             if max(len(label) for label in style_labels) > 25:
                 continue
+            
+            for img_idx, (style_img, desired_img, style_content_img) in enumerate(zip(style_imgs, desired_content, style_content)):
+                save_image(style_img, os.path.join(temp_dir, f"style_imgs_epoch{epoch}_batch{batch_idx}_img{img_idx}.png"))
+                save_image(desired_img, os.path.join(temp_dir, f"desired_content_epoch{epoch}_batch{batch_idx}_img{img_idx}.png"))
+                save_image(style_content_img, os.path.join(temp_dir, f"style_content_epoch{epoch}_batch{batch_idx}_img{img_idx}.png"))
 
             self.optimizer_G.zero_grad()
             self.optimizer_D.zero_grad()

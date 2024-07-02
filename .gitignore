@@ -5,7 +5,9 @@ outputs/**/*
 data/Custom/
 checkpoints/**/*
 wandb/**/*
-
+Stylegan (pretrained on content)/
+temp__train_epoch/
+temp_val_epoch/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

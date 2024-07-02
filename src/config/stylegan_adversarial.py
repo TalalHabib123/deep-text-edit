@@ -107,7 +107,7 @@ class Config:
                 'ocr_coef': ocr_coef,
                 'cycle_coef': cycle_coef,
                 'recon_coef': recon_coef,
-                'emb_coef': emb_coef,
+                'emb_coef': emb_coef,      #0.18680398553609848
                 'perc_coef': perc_coef,
                 'tex_coef': tex_coef,
                 'adv_coef': adv_coef,

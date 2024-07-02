@@ -297,3 +297,4 @@ class StyleGanAdvTrainer:
             if self.scheduler_D is not None:
                 self.scheduler_D.step()
             print(f'Epoch {epoch} finished')
+    

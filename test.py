@@ -1,2 +1,2 @@
 import PIL
-print(PIL.__version__)
+print(PIL.__version__)  

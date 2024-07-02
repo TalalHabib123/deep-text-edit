@@ -7,8 +7,8 @@ from src.utils.draw import  draw_word_custom
 from torchvision import transforms as T
 from pathlib import Path
 
-font_styles = ['VerilySerifMono.otf']  # 'Actor-Regular.ttf', 'Adamina-Regular.ttf', 'Alef-Regular.ttf', 'Alberta-Regular.ttf', 'Almarai-Bold.ttf', 'Barlow-ExtraBold', 
-# , 'ABeeZee-Regular.otf',
+font_styles = ['VerilySerifMono.otf', 'ABeeZee-Regular.otf',]  # 'Actor-Regular.ttf', 'Adamina-Regular.ttf', 'Alef-Regular.ttf', 'Alberta-Regular.ttf', 'Almarai-Bold.ttf', 'Barlow-ExtraBold', 
+# 
 class CustomDataset(Dataset):
     def __init__(self, dict_file1: Path, typeface_dir: bool = False):
         '''

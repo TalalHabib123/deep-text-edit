@@ -33,14 +33,14 @@ class Config:
                 logger.error('You should download IMGUR5K dataset first.')
                 exit(1)
         
-        batch_size = 16
-        # train_dataloader = DataLoader(BaselineDataset(style_dir, return_style_labels=True), shuffle=True, batch_size=batch_size)
-        # val_dataloader = DataLoader(BaselineDataset(style_dir, return_style_labels=True), batch_size=batch_size)
+        batch_size = 8
+        # train_dataloader = DataLoader(BaselineDataset(style_dir / 'Custom/train', return_style_labels=True), shuffle=True, batch_size=batch_size)
+        # val_dataloader = DataLoader(BaselineDataset(style_dir / 'Custom/val',  return_style_labels=True), batch_size=batch_size)
         
         train_dataloader = DataLoader(CustomDataset(style_dir / 'words_list.json' , False), shuffle=True, batch_size=batch_size)
         val_dataloader = DataLoader(CustomDataset(style_dir / 'words_list.json', True), shuffle=True ,batch_size=batch_size)
 
-        total_epochs = 10
+        total_epochs = 50
 
         weights_folder_name = 'Stylegan (pretrained on content)'
         weights_folder = f'models/{weights_folder_name}'
@@ -107,7 +107,7 @@ class Config:
                 'ocr_coef': ocr_coef,
                 'cycle_coef': cycle_coef,
                 'recon_coef': recon_coef,
-                'emb_coef': emb_coef,
+                'emb_coef': emb_coef,0.18680398553609848
                 'perc_coef': perc_coef,
                 'tex_coef': tex_coef,
                 'adv_coef': adv_coef,
@@ -141,7 +141,8 @@ class Config:
             TypefacePerceptualLoss(),
             VGGLoss(),
             torch.nn.L1Loss(),
-            torch.nn.MSELoss()
+            torch.nn.MSELoss(),
+            batch_size
         )
 
     def run(self):

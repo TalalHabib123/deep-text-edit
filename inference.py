@@ -12,8 +12,8 @@ from torchvision import transforms as T
 def main():
     device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 
-    weights_folder_name = 'stylegan(pretrained_on_content)_typeface_ocr_adv_192x64/9'
-    weights_folder = f'checkpoints/{weights_folder_name}'
+    # weights_folder_name = '/home/amur/Amur/Toyota/deep-text-edit/checkpoints/stylegan(pretrained_on_content)_typeface_ocr_adv_192x64/49'#'stylegan(pretrained_on_content)_typeface_ocr_adv_192x64/9'
+    weights_folder = '/home/amur/Amur/Toyota/deep-text-edit/checkpoints/stylegan(pretrained_on_content)_typeface_ocr_adv_192x64/39'#$f'checkpoints/{weights_folder_name}'
 
     model_G = StyleBased_Generator(dim_latent=512)
     model_G.load_state_dict(torch.load(f'{weights_folder}/model_G'))

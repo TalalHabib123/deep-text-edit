@@ -1,3 +1,2 @@
-import torch
-
-print(torch.cuda.is_available())
+import PIL
+print(PIL.__version__)  

@@ -33,7 +33,7 @@ class BaselineDataset(Dataset):
         self.augment = T.Compose([
             T.RandomInvert(),
         ])
-
+        import pdb; pdb.set_trace()
     def __len__(self):
         return len(self.style_files)
 
